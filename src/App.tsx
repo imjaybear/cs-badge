@@ -13,7 +13,8 @@ const MEDAL_IMAGES = {
   1: "/medals/level1.png",
   2: "/medals/level2.png",
   3: "/medals/level3.png",
-  4: "/medals/level4.png"
+  4: "/medals/level4.png",
+  5: "/medals/Logo.svg"
 };
 
 function App() {
@@ -79,7 +80,7 @@ function App() {
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-4">
             <img 
-              src={MEDAL_IMAGES[1]} 
+              src={MEDAL_IMAGES[5]} 
               alt="CS:GO Service Medal"
               className="w-16 h-16 object-contain"
             />
