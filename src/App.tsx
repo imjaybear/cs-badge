@@ -79,7 +79,7 @@ function App() {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
           <div className="flex items-center justify-center mb-4">
-            <img 
+            <svg 
               src={MEDAL_IMAGES[5]} 
               alt="CS:GO Service Medal"
               className="w-16 h-16 object-contain"
