@@ -10,10 +10,10 @@ interface BadgeProgress {
 }
 
 const MEDAL_IMAGES = {
-  1: "public/medals/level1.png",
-  2: "public/medals/level2.png",
-  3: "public/medals/level3.png",
-  4: "public/medals/level4.png",
+  1: "public/medals/Logo.svg",
+  2: "public/medals/Logo.svg",
+  3: "public/medals/Logo.svg",
+  4: "public/medals/Logo.svg",
   5: "public/medals/Logo.svg"
 };
 
